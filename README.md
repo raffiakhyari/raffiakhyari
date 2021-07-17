@@ -19,7 +19,7 @@ Reach me out!
 
 <div class="container">
             <div id="content">
-                <h1></h1>
+                <h1>Languages Stats</h1>
                 <p></p>
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffiakhyari&&count_private=true&theme=tokyonight" />
             </div>
