@@ -9,6 +9,13 @@ Reach me out!
 
 <!--END_SECTION:waka-->
 
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
 <div class="container">
             <div id="content">
                 <h1>Github Stats</h1>
