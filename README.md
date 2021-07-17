@@ -4,7 +4,7 @@ Junior Mobile Developer/Junior Software Developer with strong passion to learn n
 
 Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Akhyari_raf-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Akhyari_raf)](https://twitter.com/Akhyari_raf) [![Linkedin Badge](https://img.shields.io/badge/-Raffi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-raffi-akhyari-24624a181/) [![Mail Badge](https://img.shields.io/badge/-@raffiakhyari-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/raffiakhyari) [![Mail Badge](https://img.shields.io/badge/-muhammadraffi.akhyari-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:muhammadraffi.akhyari@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Akhyari_raf-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Akhyari_raf)](https://twitter.com/Akhyari_raf) [![Linkedin Badge](https://img.shields.io/badge/-MuhammadRaffiAkhyari-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-raffi-akhyari-24624a181/) [![Mail Badge](https://img.shields.io/badge/-@raffiakhyari-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/raffiakhyari) [![Mail Badge](https://img.shields.io/badge/-muhammadraffi.akhyari@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:muhammadraffi.akhyari@gmail.com)
 
 
 <!--END_SECTION:waka-->
