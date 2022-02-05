@@ -1,6 +1,6 @@
 ## Hi I'm Muhammad Raffi Akhyari <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi">
 
-Junior Mobile Developer/Junior Software Developer with strong passion to learn new things. Familiar with a Java Native/Kotlin. Currently interested and learning about Android and DevOps. Team Player someone who likes to work in teams. able to adapt well in learning the latest technology.
+Junior Software Engineer with strong passion to learn new things. Familiar with a Java Native/Kotlin. Currently interested and learning about Android and DevOps. Team Player someone who likes to work in teams. able to adapt well in learning the latest technology.
 
 Reach me out!
 
